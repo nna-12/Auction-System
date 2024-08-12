@@ -1,0 +1,14 @@
+1,Nisha Ganesh,12/12/2004,Chennai,Congratulations you have won Blue Moon Diamond!,24-12-2023 14:30:10,Blue Moon Diamond,Niranjana A,2000000,Nisha Ganesh
+2,Niranjana A,12/04/2004,Chennai,Congratulations you have sold Blue Moon Diamond!,24-12-2023 14:30:10,Blue Moon Diamond,Niranjana A,2000000,Nisha Ganesh
+1,Rishi Ganesh,09/04/2010,Delhi, , , , , , 
+2,Seller1,12/12/2004,Mumbai, , , , , , 
+1,Nitin A,23/04/2000,Delhi, , , , , , 
+2,S P Akshiya,05/03/2005,Chennai, , , , , , 
+1,Saraswathy Priya,12/11/2004,Chennai, , , , , , 
+2,Neeharika S,29/05/2004,Bangalore, , , , , , 
+1,Neha Shanmitha,29/08/2004,Bangalore, , , , , , 
+2,Seller2,13/09/1980,Kolkata, , , , , , 
+0,Admin,11/11/1990,Chennai, , , , , , 
+1,NewUser,24/01/2000,Chennai, , , , , , 
+1,Arjun,08/08/1989,Tambaram, , , , , , 
+2,NewUser2,14/07/1995,Mumbai, , , , , , 
