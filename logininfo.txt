@@ -1,0 +1,14 @@
+Nisha,Nisha123
+Niranjana,Niranju19
+Rishi,rishi09G
+Seller1,trialPW123
+Nitin,nitin005A
+Akshiya,SP2005aksh
+Priya,Saraswathy12
+Neeharika,sNeeha2905
+Neha,NehaShanmitha08
+Seller2,Seller2trial
+Admin,Admin1234
+NewUser,NewUser1
+Arjun,Apple123
+NewUser2,NewUser2
